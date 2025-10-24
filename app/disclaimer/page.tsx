@@ -1,0 +1,64 @@
+import Link from "next/link"
+import { getTranslations } from "@/lib/i18n/translations"
+import { AlertTriangle } from "lucide-react"
+
+export default function DisclaimerPage() {
+  const t = getTranslations("en")
+
+  return (
+    <div className="min-h-screen bg-black text-white">
+      {/* Header */}
+      <header className="border-b border-zinc-800">
+        <div className="container mx-auto px-4 py-4 flex items-center justify-between">
+          <Link href="/" className="text-2xl font-bold text-red-500">
+            Craxs RAT
+          </Link>
+          <nav className="hidden md:flex items-center gap-6">
+            <Link href="/" className="hover:text-red-500 transition-colors">
+              Home
+            </Link>
+            <Link href="/about" className="hover:text-red-500 transition-colors">
+              {t.nav.about}
+            </Link>
+            <Link href="/privacy" className="hover:text-red-500 transition-colors">
+              {t.nav.privacy}
+            </Link>
+            <Link href="/disclaimer" className="text-red-500">
+              {t.nav.disclaimer}
+            </Link>
+            <Link href="/contact" className="hover:text-red-500 transition-colors">
+              {t.nav.contact}
+            </Link>
+          </nav>
+        </div>
+      </header>
+
+      {/* Main Content */}
+      <main className="container mx-auto px-4 py-16">
+        <div className="max-w-4xl mx-auto">
+          <div className="flex items-center gap-4 mb-4">
+            <AlertTriangle className="w-12 h-12 text-red-500" />
+            <h1 className="text-4xl md:text-5xl font-bold">{t.pages.disclaimer.title}</h1>
+          </div>
+          <p className="text-xl text-zinc-400 mb-12">{t.pages.disclaimer.subtitle}</p>
+
+          <div className="space-y-8">
+            {t.pages.disclaimer.sections.map((section, index) => (
+              <div key={index} className="bg-zinc-900 border border-red-500/20 rounded-lg p-6">
+                <h2 className="text-2xl font-bold mb-3 text-red-500">{section.title}</h2>
+                <p className="text-lg text-zinc-300">{section.content}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </main>
+
+      {/* Footer */}
+      <footer className="border-t border-zinc-800 mt-16">
+        <div className="container mx-auto px-4 py-8">
+          <p className="text-center text-zinc-500">{t.footer.copyright}</p>
+        </div>
+      </footer>
+    </div>
+  )
+}

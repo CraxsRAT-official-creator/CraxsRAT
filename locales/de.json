@@ -1,0 +1,134 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "features": "Funktionen",
+    "pricing": "Preise",
+    "videos": "Demos",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "badge": "FlowSync Pro - Transformieren Sie Ihren Workflow",
+    "title": "Arbeiten Sie Intelligenter mit FlowSync",
+    "description": "Die ultimative Produktivitätsplattform, die Ihr Team zusammenbringt. Optimieren Sie Projekte, automatisieren Sie Workflows und erreichen Sie mehr mit intelligenten Kollaborationstools für moderne Teams.",
+    "telegram": "Treten Sie Unserer Community Bei",
+    "features": {
+      "security": "Unternehmenssicherheit",
+      "global": "Von Überall Arbeiten",
+      "monitoring": "Echtzeit-Analysen"
+    }
+  },
+  "showcase": {
+    "title": "Sehen Sie FlowSync in Aktion",
+    "subtitle": "Entdecken Sie, wie Teams weltweit ihre Produktivität transformieren",
+    "cards": {
+      "global": {
+        "title": "Globale Zusammenarbeit",
+        "description": "Verbinden Sie sich mit Teammitgliedern auf der ganzen Welt mit nahtloser Echtzeit-Synchronisation"
+      },
+      "dashboard": {
+        "title": "Einheitliches Dashboard",
+        "description": "Erhalten Sie einen Überblick über alle Ihre Projekte, Aufgaben und Teamleistung an einem Ort"
+      },
+      "updates": {
+        "title": "Intelligente Automatisierung",
+        "description": "Lassen Sie KI sich um wiederkehrende Aufgaben kümmern, während Sie sich auf das Wesentliche konzentrieren"
+      }
+    }
+  },
+  "videos": {
+    "title": "Produktdemonstrationen",
+    "subtitle": "Sehen Sie, wie FlowSync die Teamzusammenarbeit revolutioniert",
+    "items": {
+      "tutorial": {
+        "title": "Erste Schritte",
+        "description": "Schnellstartanleitung zur Einrichtung Ihres Arbeitsbereichs"
+      },
+      "advanced": {
+        "title": "Erweiterte Workflows",
+        "description": "Meistern Sie Automatisierung und Integrationen"
+      },
+      "setup": {
+        "title": "Team-Onboarding",
+        "description": "Best Practices für die Einbindung Ihres Teams"
+      }
+    }
+  },
+  "features": {
+    "title": "Alles, Was Sie Zum Erfolg Brauchen",
+    "subtitle": "Leistungsstarke Funktionen zur Steigerung der Produktivität und Optimierung der Zusammenarbeit",
+    "items": {
+      "security": {
+        "title": "Banksicherheit",
+        "description": "Ihre Daten sind durch Ende-zu-Ende-Verschlüsselung und SOC 2-Konformität geschützt"
+      },
+      "global": {
+        "title": "Cloud-Basierter Zugriff",
+        "description": "Greifen Sie von jedem Gerät und überall auf der Welt auf Ihre Arbeit zu"
+      },
+      "monitoring": {
+        "title": "Leistungseinblicke",
+        "description": "Verfolgen Sie den Fortschritt mit detaillierten Analysen und anpassbaren Berichten"
+      },
+      "config": {
+        "title": "Flexible Anpassung",
+        "description": "Passen Sie Workflows an die einzigartigen Prozesse Ihres Teams an"
+      }
+    }
+  },
+  "pricing": {
+    "title": "Einfache, Transparente Preise",
+    "subtitle": "Wählen Sie den Plan, der zu den Bedürfnissen Ihres Teams passt",
+    "badge": "Bester Wert",
+    "plans": {
+      "monthly": {
+        "name": "Starter",
+        "price": "29€",
+        "period": "/Monat",
+        "description": "Perfekt für kleine Teams",
+        "features": ["Bis zu 10 Teammitglieder", "5GB Speicher pro Benutzer", "Basis-Integrationen", "E-Mail-Support"],
+        "cta": "Kostenlose Testversion Starten"
+      },
+      "yearly": {
+        "name": "Professional",
+        "price": "79€",
+        "period": "/Monat",
+        "description": "Für wachsende Unternehmen",
+        "features": [
+          "Unbegrenzte Teammitglieder",
+          "50GB Speicher pro Benutzer",
+          "Erweiterte Integrationen",
+          "Prioritäts-Support",
+          "Benutzerdefinierte Workflows",
+          "Erweiterte Analysen"
+        ],
+        "cta": "Kostenlose Testversion Starten"
+      },
+      "lifetime": {
+        "name": "Enterprise",
+        "price": "199€",
+        "period": "/Monat",
+        "description": "Für große Organisationen",
+        "features": [
+          "Alles aus Professional",
+          "Unbegrenzter Speicher",
+          "Dedizierter Account Manager",
+          "Benutzerdefinierte Integrationen",
+          "SLA-Garantie",
+          "Erweiterte Sicherheitsfunktionen"
+        ],
+        "cta": "Vertrieb Kontaktieren"
+      }
+    }
+  },
+  "footer": {
+    "telegram": "Community Beitreten",
+    "links": {
+      "privacy": "Datenschutzrichtlinie",
+      "about": "Über Uns",
+      "disclaimer": "Nutzungsbedingungen",
+      "contact": "Kontakt"
+    },
+    "copyright": "© 2025 FlowSync. Teams befähigen, gemeinsam mehr zu erreichen.",
+    "disclaimer": "FlowSync ist bestrebt, Teams zu helfen, besser zu arbeiten. Starten Sie noch heute Ihre kostenlose 14-Tage-Testversion."
+  }
+}

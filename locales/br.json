@@ -1,0 +1,139 @@
+{
+  "nav": {
+    "home": "Início",
+    "features": "Recursos",
+    "pricing": "Preços",
+    "videos": "Demos",
+    "contact": "Contato"
+  },
+  "hero": {
+    "badge": "FlowSync Pro - Transforme Seu Fluxo de Trabalho",
+    "title": "Trabalhe de Forma Mais Inteligente com FlowSync",
+    "description": "A plataforma de produtividade definitiva que une sua equipe. Simplifique projetos, automatize fluxos de trabalho e conquiste mais com ferramentas de colaboração inteligentes projetadas para equipes modernas.",
+    "telegram": "Junte-se à Nossa Comunidade",
+    "features": {
+      "security": "Segurança de Nível Empresarial",
+      "global": "Trabalhe de Qualquer Lugar",
+      "monitoring": "Análises em Tempo Real"
+    }
+  },
+  "showcase": {
+    "title": "Veja o FlowSync em Ação",
+    "subtitle": "Descubra como equipes em todo o mundo estão transformando sua produtividade",
+    "cards": {
+      "global": {
+        "title": "Colaboração Global",
+        "description": "Conecte-se com membros da equipe em todo o mundo com sincronização perfeita em tempo real"
+      },
+      "dashboard": {
+        "title": "Painel Unificado",
+        "description": "Tenha uma visão geral de todos os seus projetos, tarefas e desempenho da equipe em um só lugar"
+      },
+      "updates": {
+        "title": "Automação Inteligente",
+        "description": "Deixe a IA lidar com tarefas repetitivas enquanto você se concentra no que mais importa"
+      }
+    }
+  },
+  "videos": {
+    "title": "Demonstrações do Produto",
+    "subtitle": "Veja como o FlowSync revoluciona a colaboração em equipe",
+    "items": {
+      "tutorial": {
+        "title": "Primeiros Passos",
+        "description": "Guia rápido para configurar seu espaço de trabalho"
+      },
+      "advanced": {
+        "title": "Fluxos Avançados",
+        "description": "Domine automação e integrações"
+      },
+      "setup": {
+        "title": "Integração da Equipe",
+        "description": "Melhores práticas para integrar sua equipe"
+      }
+    }
+  },
+  "features": {
+    "title": "Tudo o Que Você Precisa para Ter Sucesso",
+    "subtitle": "Recursos poderosos projetados para aumentar a produtividade e simplificar a colaboração",
+    "items": {
+      "security": {
+        "title": "Segurança Bancária",
+        "description": "Seus dados são protegidos com criptografia de ponta a ponta e conformidade SOC 2"
+      },
+      "global": {
+        "title": "Acesso Baseado em Nuvem",
+        "description": "Acesse seu trabalho de qualquer dispositivo, em qualquer lugar do mundo"
+      },
+      "monitoring": {
+        "title": "Insights de Desempenho",
+        "description": "Acompanhe o progresso com análises detalhadas e relatórios personalizáveis"
+      },
+      "config": {
+        "title": "Personalização Flexível",
+        "description": "Adapte fluxos de trabalho para corresponder aos processos únicos da sua equipe"
+      }
+    }
+  },
+  "pricing": {
+    "title": "Preços Simples e Transparentes",
+    "subtitle": "Escolha o plano que atende às necessidades da sua equipe",
+    "badge": "Melhor Valor",
+    "plans": {
+      "monthly": {
+        "name": "Iniciante",
+        "price": "R$ 149",
+        "period": "/mês",
+        "description": "Perfeito para pequenas equipes",
+        "features": [
+          "Até 10 membros da equipe",
+          "5GB de armazenamento por usuário",
+          "Integrações básicas",
+          "Suporte por e-mail"
+        ],
+        "cta": "Iniciar Teste Gratuito"
+      },
+      "yearly": {
+        "name": "Profissional",
+        "price": "R$ 399",
+        "period": "/mês",
+        "description": "Para empresas em crescimento",
+        "features": [
+          "Membros ilimitados",
+          "50GB de armazenamento por usuário",
+          "Integrações avançadas",
+          "Suporte prioritário",
+          "Fluxos personalizados",
+          "Análises avançadas"
+        ],
+        "cta": "Iniciar Teste Gratuito"
+      },
+      "lifetime": {
+        "name": "Empresarial",
+        "price": "R$ 999",
+        "period": "/mês",
+        "description": "Para grandes organizações",
+        "features": [
+          "Tudo do Profissional",
+          "Armazenamento ilimitado",
+          "Gerente de conta dedicado",
+          "Integrações personalizadas",
+          "Garantia de SLA",
+          "Recursos avançados de segurança"
+        ],
+        "cta": "Falar com Vendas"
+      }
+    }
+  },
+  "footer": {
+    "telegram": "Junte-se à Comunidade",
+    "links": {
+      "privacy": "Política de Privacidade",
+      "about": "Sobre Nós",
+      "disclaimer": "Termos de Serviço",
+      "contact": "Contato"
+    },
+    "copyright": "© 2025 FlowSync. Capacitando equipes a conquistar mais juntas.",
+    "disclaimer": "FlowSync está comprometido em ajudar equipes a trabalhar melhor. Comece seu teste gratuito de 14 dias hoje."
+  }
+}

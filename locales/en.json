@@ -1,0 +1,134 @@
+{
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "pricing": "Pricing",
+    "videos": "Demos",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "FlowSync Pro - Transform Your Workflow",
+    "title": "Work Smarter, Not Harder with FlowSync",
+    "description": "The ultimate productivity platform that brings your team together. Streamline projects, automate workflows, and achieve more with intelligent collaboration tools designed for modern teams.",
+    "telegram": "Join Our Community",
+    "features": {
+      "security": "Enterprise-Grade Security",
+      "global": "Work From Anywhere",
+      "monitoring": "Real-Time Analytics"
+    }
+  },
+  "showcase": {
+    "title": "See FlowSync in Action",
+    "subtitle": "Discover how teams worldwide are transforming their productivity",
+    "cards": {
+      "global": {
+        "title": "Global Collaboration",
+        "description": "Connect with team members across the globe with seamless real-time synchronization"
+      },
+      "dashboard": {
+        "title": "Unified Dashboard",
+        "description": "Get a bird's-eye view of all your projects, tasks, and team performance in one place"
+      },
+      "updates": {
+        "title": "Smart Automation",
+        "description": "Let AI handle repetitive tasks while you focus on what matters most"
+      }
+    }
+  },
+  "videos": {
+    "title": "Product Demonstrations",
+    "subtitle": "Watch how FlowSync revolutionizes team collaboration",
+    "items": {
+      "tutorial": {
+        "title": "Getting Started",
+        "description": "Quick start guide to set up your workspace"
+      },
+      "advanced": {
+        "title": "Advanced Workflows",
+        "description": "Master automation and integrations"
+      },
+      "setup": {
+        "title": "Team Onboarding",
+        "description": "Best practices for bringing your team onboard"
+      }
+    }
+  },
+  "features": {
+    "title": "Everything You Need to Succeed",
+    "subtitle": "Powerful features designed to boost productivity and streamline collaboration",
+    "items": {
+      "security": {
+        "title": "Bank-Level Security",
+        "description": "Your data is protected with end-to-end encryption and SOC 2 compliance"
+      },
+      "global": {
+        "title": "Cloud-Based Access",
+        "description": "Access your work from any device, anywhere in the world"
+      },
+      "monitoring": {
+        "title": "Performance Insights",
+        "description": "Track progress with detailed analytics and customizable reports"
+      },
+      "config": {
+        "title": "Flexible Customization",
+        "description": "Tailor workflows to match your team's unique processes"
+      }
+    }
+  },
+  "pricing": {
+    "title": "Simple, Transparent Pricing",
+    "subtitle": "Choose the plan that fits your team's needs",
+    "badge": "Best Value",
+    "plans": {
+      "monthly": {
+        "name": "Starter",
+        "price": "$29",
+        "period": "/month",
+        "description": "Perfect for small teams",
+        "features": ["Up to 10 team members", "5GB storage per user", "Basic integrations", "Email support"],
+        "cta": "Start Free Trial"
+      },
+      "yearly": {
+        "name": "Professional",
+        "price": "$79",
+        "period": "/month",
+        "description": "For growing businesses",
+        "features": [
+          "Unlimited team members",
+          "50GB storage per user",
+          "Advanced integrations",
+          "Priority support",
+          "Custom workflows",
+          "Advanced analytics"
+        ],
+        "cta": "Start Free Trial"
+      },
+      "lifetime": {
+        "name": "Enterprise",
+        "price": "$199",
+        "period": "/month",
+        "description": "For large organizations",
+        "features": [
+          "Everything in Professional",
+          "Unlimited storage",
+          "Dedicated account manager",
+          "Custom integrations",
+          "SLA guarantee",
+          "Advanced security features"
+        ],
+        "cta": "Contact Sales"
+      }
+    }
+  },
+  "footer": {
+    "telegram": "Join Community",
+    "links": {
+      "privacy": "Privacy Policy",
+      "about": "About Us",
+      "disclaimer": "Terms of Service",
+      "contact": "Contact"
+    },
+    "copyright": "© 2025 FlowSync. Empowering teams to achieve more together.",
+    "disclaimer": "FlowSync is committed to helping teams work better. Start your free 14-day trial today."
+  }
+}

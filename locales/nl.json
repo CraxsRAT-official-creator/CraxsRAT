@@ -1,0 +1,134 @@
+{
+  "nav": {
+    "home": "Home",
+    "features": "Functies",
+    "pricing": "Prijzen",
+    "videos": "Demo's",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "FlowSync Pro - Transformeer Uw Workflow",
+    "title": "Werk Slimmer met FlowSync",
+    "description": "Het ultieme productiviteitsplatform dat uw team samenbrengt. Stroomlijn projecten, automatiseer workflows en bereik meer met intelligente samenwerkingstools ontworpen voor moderne teams.",
+    "telegram": "Sluit Je Aan Bij Onze Community",
+    "features": {
+      "security": "Enterprise-Grade Beveiliging",
+      "global": "Werk Overal Vandaan",
+      "monitoring": "Realtime Analyses"
+    }
+  },
+  "showcase": {
+    "title": "Zie FlowSync in Actie",
+    "subtitle": "Ontdek hoe teams wereldwijd hun productiviteit transformeren",
+    "cards": {
+      "global": {
+        "title": "Wereldwijde Samenwerking",
+        "description": "Verbind met teamleden over de hele wereld met naadloze realtime synchronisatie"
+      },
+      "dashboard": {
+        "title": "Uniform Dashboard",
+        "description": "Krijg een overzicht van al uw projecten, taken en teamprestaties op één plek"
+      },
+      "updates": {
+        "title": "Slimme Automatisering",
+        "description": "Laat AI repetitieve taken afhandelen terwijl u zich concentreert op wat het belangrijkst is"
+      }
+    }
+  },
+  "videos": {
+    "title": "Productdemonstraties",
+    "subtitle": "Bekijk hoe FlowSync teamsamenwerking revolutioneert",
+    "items": {
+      "tutorial": {
+        "title": "Aan de Slag",
+        "description": "Snelstartgids om uw werkruimte in te stellen"
+      },
+      "advanced": {
+        "title": "Geavanceerde Workflows",
+        "description": "Beheers automatisering en integraties"
+      },
+      "setup": {
+        "title": "Team Onboarding",
+        "description": "Best practices voor het onboarden van uw team"
+      }
+    }
+  },
+  "features": {
+    "title": "Alles Wat U Nodig Heeft Om Te Slagen",
+    "subtitle": "Krachtige functies ontworpen om productiviteit te verhogen en samenwerking te stroomlijnen",
+    "items": {
+      "security": {
+        "title": "Bankbeveiliging",
+        "description": "Uw gegevens zijn beschermd met end-to-end encryptie en SOC 2-naleving"
+      },
+      "global": {
+        "title": "Cloud-Gebaseerde Toegang",
+        "description": "Toegang tot uw werk vanaf elk apparaat, overal ter wereld"
+      },
+      "monitoring": {
+        "title": "Prestatie-Inzichten",
+        "description": "Volg voortgang met gedetailleerde analyses en aanpasbare rapporten"
+      },
+      "config": {
+        "title": "Flexibele Aanpassing",
+        "description": "Pas workflows aan om te voldoen aan de unieke processen van uw team"
+      }
+    }
+  },
+  "pricing": {
+    "title": "Eenvoudige, Transparante Prijzen",
+    "subtitle": "Kies het plan dat past bij de behoeften van uw team",
+    "badge": "Beste Waarde",
+    "plans": {
+      "monthly": {
+        "name": "Starter",
+        "price": "€29",
+        "period": "/maand",
+        "description": "Perfect voor kleine teams",
+        "features": ["Tot 10 teamleden", "5GB opslag per gebruiker", "Basis integraties", "E-mailondersteuning"],
+        "cta": "Start Gratis Proefperiode"
+      },
+      "yearly": {
+        "name": "Professioneel",
+        "price": "€79",
+        "period": "/maand",
+        "description": "Voor groeiende bedrijven",
+        "features": [
+          "Onbeperkte teamleden",
+          "50GB opslag per gebruiker",
+          "Geavanceerde integraties",
+          "Prioriteitsondersteuning",
+          "Aangepaste workflows",
+          "Geavanceerde analyses"
+        ],
+        "cta": "Start Gratis Proefperiode"
+      },
+      "lifetime": {
+        "name": "Enterprise",
+        "price": "€199",
+        "period": "/maand",
+        "description": "Voor grote organisaties",
+        "features": [
+          "Alles uit Professioneel",
+          "Onbeperkte opslag",
+          "Toegewijde accountmanager",
+          "Aangepaste integraties",
+          "SLA-garantie",
+          "Geavanceerde beveiligingsfuncties"
+        ],
+        "cta": "Neem Contact Op Met Verkoop"
+      }
+    }
+  },
+  "footer": {
+    "telegram": "Word Lid van Community",
+    "links": {
+      "privacy": "Privacybeleid",
+      "about": "Over Ons",
+      "disclaimer": "Servicevoorwaarden",
+      "contact": "Contact"
+    },
+    "copyright": "© 2025 FlowSync. Teams in staat stellen om samen meer te bereiken.",
+    "disclaimer": "FlowSync is toegewijd aan het helpen van teams om beter te werken. Start vandaag nog uw gratis proefperiode van 14 dagen."
+  }
+}
