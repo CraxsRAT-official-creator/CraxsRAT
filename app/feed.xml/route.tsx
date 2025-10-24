@@ -1,3 +1,5 @@
+export const dynamic = "force-static"
+
 const baseUrl = "https://craxs-rat.vercel.app"
 
 export async function GET() {

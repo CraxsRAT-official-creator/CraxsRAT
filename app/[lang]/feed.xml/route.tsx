@@ -1,3 +1,5 @@
+export const dynamic = "force-static"
+
 import { languages } from "@/lib/i18n/config"
 import { translations } from "@/lib/i18n/translations"
 
